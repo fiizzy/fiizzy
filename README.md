@@ -23,15 +23,23 @@ Below is the base stack that I'm currently using for personal projects. Definite
 
 ## Language
 ![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
+![Javascript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 
 
 ## Framework
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=next)
+
+
 
 ## Tools
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jira)
 
