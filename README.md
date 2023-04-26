@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fisayo Obilaja</h1>
 
-```
-dart 
+```dart 
 I am a Software Engineer who enjoys exploring different technologies, improving the developer experience and working at [MyBubble](https://mybubbleapp.co.uk). I am obessed with the fine things of s/w engineering - Architecture, Clean code principles and all the good stuff. My professional goal is to become a CTPO
 ```
 
