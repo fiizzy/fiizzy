@@ -18,29 +18,29 @@ More about me on my [personal website](https://personal-website-fiizzy.vercel.ap
 </div> -->
 
 ### 📄 Resume
-You can download my resume by [clicking this](https://personal-website-fiizzy.vercel.app/resume.pdf)
+>You can download my resume by [clicking this](https://personal-website-fiizzy.vercel.app/resume.pdf)
 
 
 ### 🎧 💻 Currently
-I am currently building an opensource realtime video conferencing tool. The project still remains private at the moment untill it can ideally be made public.
+>I am currently building an opensource realtime video conferencing tool. The project still remains private at the moment untill it can ideally be made public.
 
 
 ### 🧑🏽‍💻 Language
-![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
+>![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
 ![Javascript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 
 
 ### 💻 Framework
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+>![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=nextjs)
 
 
 
 ### 🛠 Tools
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+>![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -49,4 +49,4 @@ I am currently building an opensource realtime video conferencing tool. The proj
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 
 ### 🎨 Design
-Checkout out my occassiocal designs here [click this](https://behance.net/fisayoobilaja)
+>Checkout out my occassiocal designs here [click this](https://behance.net/fisayoobilaja)
