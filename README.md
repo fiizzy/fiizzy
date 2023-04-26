@@ -3,8 +3,10 @@
 
 I am a Software Engineer who enjoys exploring different technologies, improving the developer experience and working at [MyBubble](https://mybubbleapp.co.uk). I am obessed with the fine things of s/w engineering - Architecture, Clean code principles and all the good stuff. My professional goal is to become a CTPO
 
-
 More about me on my [personal website](https://personal-website-fiizzy.vercel.app/). 
+
+&nbsp;
+&nbsp;
 
 <!-- <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -19,6 +21,7 @@ More about me on my [personal website](https://personal-website-fiizzy.vercel.ap
 
 ### 📄 Resume
 You can download my resume by [clicking this](https://personal-website-fiizzy.vercel.app/resume.pdf)
+
 &nbsp;
 &nbsp;
 
