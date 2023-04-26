@@ -15,30 +15,30 @@ More about me on my [personal website](https://personal-website-fiizzy.vercel.ap
   <img alt="fiizzy top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiizzy&layout=compact&theme=onedark" />
 </div> -->
 
-## Resume
+## 📄 Resume
 You can download my resume by [clicking this](https://personal-website-fiizzy.vercel.app/resume.pdf)
 
-## Currently
+## 🎧 💻 Currently
 I am currently building an opensource realtime video conferencing tool. The project still remains private at the moment untill it can ideally be made public.
 
-# Project Stack
+# ⚙️ Project Stack
 Below is the base stack that I'm currently using for personal projects. Definitely try it out.
 
-## Language
+## 🧑🏽‍💻 Language
 ![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
 ![Javascript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 
 
-## Framework
+## 💻 Framework
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=nextjs)
 
 
 
-## Tools
+## 🛠 Tools
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
@@ -47,5 +47,5 @@ Below is the base stack that I'm currently using for personal projects. Definite
 ![Amplitude](https://img.shields.io/badge/-Amplitude-black?style=flat-square&logo=amplitude)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 
-## Design
+## 🎨 Design
 Checkout out my occassiocal designs here [click this](https://behance.net/fisayoobilaja)
