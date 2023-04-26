@@ -18,8 +18,8 @@ More about me on my [personal website](https://personal-website-fiizzy.vercel.ap
 ## Resume
 You can download my resume by [clicking this](https://personal-website-fiizzy.vercel.app/resume.pdf)
 
-##Currently
-- I am currently building an opensource realtime video conferencing tool. The project still remains private at the moment untill it can ideally be made public.
+## Currently
+I am currently building an opensource realtime video conferencing tool. The project still remains private at the moment untill it can ideally be made public.
 
 # Project Stack
 Below is the base stack that I'm currently using for personal projects. Definitely try it out.
