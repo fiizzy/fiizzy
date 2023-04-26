@@ -2,21 +2,21 @@
 
 I am a Software Engineer who enjoys exploring different technologies, improving the developer experience and working at [MyBubble](https://mybubbleapp.co.uk).
 
-Learn more at: [dev.page/fisayoobilaja](https://dev.page/fisayoobilaja).
+More about me on my [personal website](https://personal-website-fiizzy.vercel.app/). 
 
-<p>
+<!-- <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=fiizzy&title=Commit,PullRequest,Repositories,Issues,Followers&theme=onedark" />
   </a>
-</p>
+</p> -->
 
-<div>
+<!-- <div>
   <img height="170" align="left" alt="fiizzy stats" src="https://github-readme-stats.vercel.app/api?username=fiizzy&show_icons=true&theme=onedark" />
   <img alt="fiizzy top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiizzy&layout=compact&theme=onedark" />
-</div>
+</div> -->
 
-<!-- ## Resume
-[leedavidcs.github.io/leedavidcs](https://leedavidcs.github.io/leedavidcs) -->
+## Resume
+[Click Here](https://personal-website-fiizzy.vercel.app/resume.pdf)
 
 # Project Stack
 Below is the base stack that I'm currently using for personal projects. Definitely try it out.
