@@ -6,7 +6,6 @@ I am a Software Engineer who enjoys exploring different technologies, improving 
 More about me on my [personal website](https://personal-website-fiizzy.vercel.app/). 
 
 &nbsp;
-&nbsp;
 
 <!-- <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -23,11 +22,10 @@ More about me on my [personal website](https://personal-website-fiizzy.vercel.ap
 You can download my resume by [clicking this](https://personal-website-fiizzy.vercel.app/resume.pdf)
 
 &nbsp;
-&nbsp;
 
 ### 🎧 💻 Currently
-I am currently building an opensource realtime video conferencing tool. The project still remains private at the moment untill it can ideally be made public.
-&nbsp;
+I am currently building an opensource realtime video conferencing tool. The project still remains private untill it I am confident it is ripe for public contributions.
+
 &nbsp;
 
 ### 🧑🏽‍💻 Language
@@ -37,14 +35,12 @@ I am currently building an opensource realtime video conferencing tool. The proj
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 
 &nbsp;
-&nbsp;
 
 ### 💻 Framework
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=nextjs)
 
-&nbsp;
 &nbsp;
 
 ### 🛠 Tools
@@ -56,7 +52,6 @@ I am currently building an opensource realtime video conferencing tool. The proj
 ![Amplitude](https://img.shields.io/badge/-Amplitude-black?style=flat-square&logo=amplitude)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 
-&nbsp;
 &nbsp;
 
 ### 🎨 Design
