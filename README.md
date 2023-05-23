@@ -24,7 +24,7 @@ You can download my resume by [clicking this](https://personal-website-fiizzy.ve
 &nbsp;
 
 ### 🎧 💻 Currently
-I am currently building an opensource scheduling tool. Think Calendly and VimCal on steriods.
+I am currently building an opensource scheduling tool. Think Calendly and VimCal on steriods. I'll make this repo public once it reaches MVP.
 
 &nbsp;
 
