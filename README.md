@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fisayo Obilaja</h1>
 
 
-I am a Software Engineer who enjoys exploring different technologies, improving the developer experience and working at [MyBubble](https://mybubbleapp.co.uk). I am obessed with the fine things of s/w engineering - Architecture, Clean code principles and all the good stuff. My professional goal is to become a CTPO
+I am a software engineer building quality, testable and maintainable software products. I have a Bachelor's degree in computer engineering with an additional background in design and product health in general. In my day to day job, I work with Flutter mostly. I occassionally work with React, Node and TypeScript. My technological goal is to become a CTpO (with a small p!
 
 More about me on my [personal website](https://personal-website-fiizzy.vercel.app/). 
 
