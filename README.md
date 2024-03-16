@@ -7,9 +7,10 @@ Dedicated Frontend engineer focused on building optimized web applications. Key 
 I am currently building an opensource scheduling tool. Think Calendly and GoogleCal on steriods. [Calentre](https://github.com/calentre)
 
 ###### 🧑🏽‍💻 Language
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)<br>
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Javascript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
+![Node.JS](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs)
+![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)<br>
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 
 ###### 💻 Framework
@@ -19,6 +20,7 @@ I am currently building an opensource scheduling tool. Think Calendly and Google
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 
 ###### 🛠 Tools
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
 ![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
 ![GraphQL](https://img.shields.io/badge/-graphql-black?style=flat-square&logo=graphql)
