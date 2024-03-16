@@ -1,58 +1,39 @@
-<h1 align="center">Hi 👋, I'm Fisayo Obilaja</h1>
-
-
-I am a software engineer building quality, testable and maintainable software products. I have a Bachelor's degree in computer engineering with an additional background in design and product health in general. In my day to day job, I work with Flutter mostly. I occassionally work with React, Node and TypeScript. My technological goal is to become a CTpO (with a small p!
-
-More about me on my [personal website](https://personal-website-fiizzy.vercel.app/). 
+>#### Frontend Engineer
+Dedicated Frontend engineer focused on building optimized web applications. Focused on architecture, abstractions and efficiency.
 
 &nbsp;
 
-<!-- <p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fiizzy&title=Commit,PullRequest,Repositories,Issues,Followers&theme=onedark" />
-  </a>
-</p> -->
+###### 🎧 💻 Currently
+I am currently building an opensource scheduling tool. Think Calendly and GoogleCal on steriods. [Calentre](https://github.com/calentre)
 
-<!-- <div>
-  <img height="170" align="left" alt="fiizzy stats" src="https://github-readme-stats.vercel.app/api?username=fiizzy&show_icons=true&theme=onedark" />
-  <img alt="fiizzy top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiizzy&layout=compact&theme=onedark" />
-</div> -->
-
-### 📄 Resume
-You can download my resume by [clicking this](https://personal-website-fiizzy.vercel.app/resume.pdf)
-
-&nbsp;
-
-### 🎧 💻 Currently
-I am currently building an opensource scheduling tool. Think Calendly and VimCal on steriods. I'll make this repo public once it reaches MVP.
-
-&nbsp;
-
-### 🧑🏽‍💻 Language
->![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
+###### 🧑🏽‍💻 Language
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)<br>
 ![Javascript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 
-&nbsp;
-
-### 💻 Framework
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+###### 💻 Framework
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=nextjs)
+![Next.js](https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=nextdotjs)
+![Material UI](https://img.shields.io/badge/-MaterialUI-black?style=flat-square&logo=mui)<br>
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 
-&nbsp;
-
-### 🛠 Tools
+###### 🛠 Tools
+![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
+![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
+![GraphQL](https://img.shields.io/badge/-graphql-black?style=flat-square&logo=graphql)
+![Appolo](https://img.shields.io/badge/-AppoloClient-black?style=flat-square&logo=apollographql)<br>
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
+![Prisma](https://img.shields.io/badge/-prisma-black?style=flat-square&logo=prisma)
+![WebPack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack)
+![Jenkins](https://img.shields.io/badge/-jenkins-black?style=flat-square&logo=jenkins)<br>
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)<br>
 ![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jira)
 ![Amplitude](https://img.shields.io/badge/-Amplitude-black?style=flat-square&logo=amplitude)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)<br>
 
-&nbsp;
-
-### 🎨 Design
-Checkout out my occassiocal designs here [click this](https://behance.net/fisayoobilaja)
+###### 🎨 Design
+Creative outlet -- [click this](https://behance.net/fisayoobilaja)
