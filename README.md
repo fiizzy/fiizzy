@@ -1,5 +1,5 @@
 >#### Frontend Engineer
-Dedicated Frontend engineer focused on building optimized web applications. Focused on architecture, abstractions and efficiency.
+Dedicated Frontend engineer focused on building optimized web applications. Key interests are on architecture, abstractions and efficiency.
 
 &nbsp;
 
