@@ -1,10 +1,7 @@
->#### Frontend Engineer
-Dedicated Frontend engineer focused on building optimized web applications. Key interests are on architecture, abstractions and efficiency.
+>#### Mobile Engineer
+Dedicated Mobile and Web engineer focused on building optimized web applications. Key interests are on architecture, abstractions and efficiency.
 
 &nbsp;
-
-###### 🎧 💻 Currently
-I am currently building an opensource scheduling tool. Think Calendly and GoogleCal on steriods. [Calentre](https://github.com/calentre)
 
 ###### 🧑🏽‍💻 Language
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
