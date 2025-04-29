@@ -1,5 +1,5 @@
 >#### Mobile Engineer
-Dedicated Mobile and Web engineer focused on building optimized web applications. Key interests are on architecture, abstractions and efficiency.
+Builder.
 
 &nbsp;
 
